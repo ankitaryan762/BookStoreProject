@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Model.ModelCLasses
 {
-    public class BookModel
+    public class CartModel
     {
         /// <summary>
         /// property for name title of the book
@@ -24,27 +24,16 @@ namespace Model.ModelCLasses
         /// <summary>
         /// property for the price of the book
         /// </summary>
-        public string Price { get; set; }
+        public double Price { get; set; }
 
         /// <summary>
-        /// property for availability  of book
+        /// property for TotalPrices
         /// </summary>
-        public string Availability { get; set; }
+        public double TotalPrice { get; set; } 
 
         /// <summary>
-        /// property for the description of the book
+        /// property for count i.e number of books selected.
         /// </summary>
-        public string Description { get; set; }
-
-        /// <summary>
-        /// properrty for the rating 
-        /// </summary>
-        public string Ratings { get; set; }
-
-        /// <summary>
-        /// property for the rating
-        /// </summary>
-        public string Review { get; set; }
-
+        public int Count { get; set; } 
     }
 }

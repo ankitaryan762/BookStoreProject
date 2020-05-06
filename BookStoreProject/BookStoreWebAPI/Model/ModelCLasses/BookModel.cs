@@ -9,7 +9,7 @@ namespace Model.ModelCLasses
         /// <summary>
         /// property for value id
         /// </summary>
-        public string BookId { get; set; }
+        public int BookId { get; set; }
 
         /// <summary>
         /// property for name title of the book

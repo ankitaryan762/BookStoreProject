@@ -17,7 +17,7 @@ class Header extends Component {
                     </div>
                     <div className='search-div'>
                     <TextField
-                     className='search-text'
+                     className='search-textfield'
                     InputProps={{
                         startAdornment: (
                             <InputAdornment position="start">

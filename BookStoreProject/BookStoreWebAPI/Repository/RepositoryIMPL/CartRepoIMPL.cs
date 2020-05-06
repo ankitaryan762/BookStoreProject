@@ -41,7 +41,7 @@ namespace Repository.RepositoryIMPL
 
         public void UpdateBookInCart(CartModel BookToUpdate, CartModel BookNewDetails)
         {
-            BookToUpdate.Name = BookNewDetails.Name;
+            BookToUpdate.Title = BookNewDetails.Title;
             BookToUpdate.Authors  = BookNewDetails.Authors;
             BookToUpdate.Count  = BookNewDetails.Count;
             BookToUpdate.Price  = BookNewDetails.Price;

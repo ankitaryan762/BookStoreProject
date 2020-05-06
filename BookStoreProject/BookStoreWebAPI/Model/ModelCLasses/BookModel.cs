@@ -7,14 +7,19 @@ namespace Model.ModelCLasses
     public class BookModel
     {
         /// <summary>
+        /// property for value id
+        /// </summary>
+        public string BookId { get; set; }
+
+        /// <summary>
         /// property for name title of the book
         /// </summary>
-        public string Name { get; set; }
+        public string Title { get; set; }
 
         /// <summary>
         /// property for the Authors of the book
         /// </summary>
-        public string Authors { get; set; }
+        public string Author { get; set; }
 
         /// <summary>
         /// property for the image of the book

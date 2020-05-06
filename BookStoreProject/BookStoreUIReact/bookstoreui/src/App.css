@@ -36,3 +36,110 @@
     transform: rotate(360deg);
   }
 }
+.header{
+  display:flex;
+  background-color:antiquewhite;
+  justify-content: space-between;
+  padding: 7px;
+  height: 50px;
+}
+.book-logo-search-div{
+ display:flex;
+ position: relative;
+ left: 20px;
+ header:45px;
+}
+.book-logo-div{
+margin-right: 30px;
+}
+.cart-wishlist-div{
+display: flex;
+align-items: center;
+position: relative;
+right: 100px;
+}
+.wishlist-div{
+ margin-left: 20px;
+}
+
+.book-logo-search-div{
+  display: flex;
+  position: relative;
+  left: 100px;
+  align-items: center;
+  
+  }
+  
+  .book-logo-div{
+  margin-right: 10px;
+  
+  }
+  .search-div{
+    width: 300px;
+    }
+  .search-textfield{
+    width: 500px;
+    background-color: white;
+    border-radius: 9px;
+    outline: none;
+   
+   }
+   
+   .cart-wishlist-div{
+    display: flex;
+    align-items: center;
+    position: relative;
+    right: 100px;
+    
+  }
+  
+  .wishlist-div{
+  margin-left: 20px;
+  }
+   
+
+.book-title{
+margin-right: 20px;
+}
+
+.title-div{
+  display: flex;
+  justify-content: space-between;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 20px;
+}
+
+/* .pagination-div{
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  margin-bottom: 20px;
+} */
+
+.display-books{
+  display: flex;
+    flex-wrap: wrap;
+    height: 1000px;
+    /* margin-top: 50px; */
+    margin-right: 10%;
+    margin-left: 4%;
+    justify-content: center;
+    width: 1300px;
+    align-items: center;
+}
+
+.MuiPaper-root.MuiCard-root.note-card.MuiPaper-elevation1.MuiPaper-rounded{
+  width: 19%;
+  margin: 2%;
+  height: 33%;
+}
+
+.MuiCardContent-root {
+  padding: 10px;
+  
+}
+.image-div{
+  margin-top: 6px;
+  margin-left: 40px;
+}

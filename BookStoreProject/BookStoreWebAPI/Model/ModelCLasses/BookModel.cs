@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Text;
 
 namespace Model.ModelCLasses
@@ -9,6 +11,8 @@ namespace Model.ModelCLasses
         /// <summary>
         /// property for value id
         /// </summary>
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        [Key]
         public int BookId { get; set; }
 
         /// <summary>

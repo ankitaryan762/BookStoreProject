@@ -10,7 +10,7 @@ namespace BookStoreWebAPI.Controllers
     [Route("api/[controller]")]
     [ApiController]
     public class BookStoreController : ControllerBase
-    {
+    { 
 
         
     }

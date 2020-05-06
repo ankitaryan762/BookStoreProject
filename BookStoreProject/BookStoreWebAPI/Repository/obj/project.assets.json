@@ -908,6 +908,16 @@
         "compile": {
           "ref/netstandard1.3/System.Threading.Tasks.dll": {}
         }
+      },
+      "Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Model.dll": {}
+        }
       }
     }
   },
@@ -3484,12 +3494,18 @@
         "system.threading.tasks.4.0.11.nupkg.sha512",
         "system.threading.tasks.nuspec"
       ]
+    },
+    "Model/1.0.0": {
+      "type": "project",
+      "path": "../Model/Model.csproj",
+      "msbuildProject": "../Model/Model.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
       "Microsoft.EntityFrameworkCore.SqlServer >= 2.1.2",
-      "Microsoft.NETCore.App >= 2.1.0"
+      "Microsoft.NETCore.App >= 2.1.0",
+      "Model >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -3521,7 +3537,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\stsum\\OneDrive\\Documents\\VSProjects\\BookStoreFolder\\BookStoreProject-CohortA\\BookStoreProject\\BookStoreWebAPI\\Model\\Model.csproj": {
+              "projectPath": "C:\\Users\\stsum\\OneDrive\\Documents\\VSProjects\\BookStoreFolder\\BookStoreProject-CohortA\\BookStoreProject\\BookStoreWebAPI\\Model\\Model.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

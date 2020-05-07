@@ -5,6 +5,7 @@ import FavoriteIcon from '@material-ui/icons/Favorite';
 import TextField from '@material-ui/core/TextField';
 import SearchIcon from '@material-ui/icons/Search';
 import InputAdornment from '@material-ui/core/InputAdornment';
+import Typography from '@material-ui/core/Typography';
 class Header extends Component {
 
     render() {
@@ -14,6 +15,11 @@ class Header extends Component {
                 <div className='book-logo-search-div'>
                     <div className='book-logo-div'>
                     <MenuBookIcon/>
+                    </div>
+                    <div className='book-tittle'>
+                    <Typography variant='h4'>
+                        Book Store
+                    </Typography>
                     </div>
                     <div className='search-div'>
                     <TextField
@@ -26,10 +32,9 @@ class Header extends Component {
                         ),
                     }} 
                     id="outlined-basic" 
-                    label="Outlined" 
                     variant="outlined" />
                     </div>
-                </div> 
+                    </div> 
                 <div className='cart-wishlist-div'>
                 <div className='cart-div'>
                 <ShoppingCartIcon/> 

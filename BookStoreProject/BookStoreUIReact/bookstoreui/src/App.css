@@ -1,19 +1,23 @@
 .header{
-   display:flex;
-   background-color: brown;
-   justify-content: space-between;
-   padding: 10px;
+  display:flex;
+  background-color: brown;
+  justify-content: space-between;
+  padding: 10px;
+  flex-shrink: 1;
 }
 .book-logo-search-div{
-  display:flex;
-  position: relative;
-  left: 20px;
+ display:flex;
+ position: relative;
+ left: 20px;
+ align-items: center;
 }
 .book-logo-div{
-margin-right: 30px;
+margin-right: 10px;
 }
+
 .search-div{
 width: 300px;
+
 }
 .cart-wishlist-div{
 display: flex;
@@ -22,9 +26,14 @@ position: relative;
 right: 100px;
 }
 .wishlist-div{
-  margin-left: 20px;
+ margin-left: 20px;
 }
 .search-textfield{
 width: 300px;
 background-color: white;
+border-radius: 10px;
+outline: none;
+}
+.book-tittle{
+ margin-right: 20px;
 }

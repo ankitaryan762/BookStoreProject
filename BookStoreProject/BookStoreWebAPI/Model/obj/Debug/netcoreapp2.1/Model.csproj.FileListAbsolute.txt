@@ -9,3 +9,15 @@ C:\Users\stsum\OneDrive\Documents\VSProjects\BookStoreFolder\BookStoreProject-Co
 C:\Users\stsum\OneDrive\Documents\VSProjects\BookStoreFolder\BookStoreProject-CohortA\BookStoreProject\BookStoreWebAPI\Model\obj\Debug\netcoreapp2.1\Model.dll
 C:\Users\stsum\OneDrive\Documents\VSProjects\BookStoreFolder\BookStoreProject-CohortA\BookStoreProject\BookStoreWebAPI\Model\obj\Debug\netcoreapp2.1\Model.pdb
 C:\Users\stsum\OneDrive\Documents\VSProjects\BookStoreFolder\BookStoreProject-CohortA\BookStoreProject\BookStoreWebAPI\Model\obj\Debug\netcoreapp2.1\Model.genruntimeconfig.cache
+E:\BookStoreProjectFolder\BookStoreProject-CohortA\BookStoreProject\BookStoreWebAPI\Model\bin\Debug\netcoreapp2.1\Model.deps.json
+E:\BookStoreProjectFolder\BookStoreProject-CohortA\BookStoreProject\BookStoreWebAPI\Model\bin\Debug\netcoreapp2.1\Model.runtimeconfig.json
+E:\BookStoreProjectFolder\BookStoreProject-CohortA\BookStoreProject\BookStoreWebAPI\Model\bin\Debug\netcoreapp2.1\Model.runtimeconfig.dev.json
+E:\BookStoreProjectFolder\BookStoreProject-CohortA\BookStoreProject\BookStoreWebAPI\Model\bin\Debug\netcoreapp2.1\Model.dll
+E:\BookStoreProjectFolder\BookStoreProject-CohortA\BookStoreProject\BookStoreWebAPI\Model\bin\Debug\netcoreapp2.1\Model.pdb
+E:\BookStoreProjectFolder\BookStoreProject-CohortA\BookStoreProject\BookStoreWebAPI\Model\obj\Debug\netcoreapp2.1\Model.csprojAssemblyReference.cache
+E:\BookStoreProjectFolder\BookStoreProject-CohortA\BookStoreProject\BookStoreWebAPI\Model\obj\Debug\netcoreapp2.1\Model.csproj.CoreCompileInputs.cache
+E:\BookStoreProjectFolder\BookStoreProject-CohortA\BookStoreProject\BookStoreWebAPI\Model\obj\Debug\netcoreapp2.1\Model.AssemblyInfoInputs.cache
+E:\BookStoreProjectFolder\BookStoreProject-CohortA\BookStoreProject\BookStoreWebAPI\Model\obj\Debug\netcoreapp2.1\Model.AssemblyInfo.cs
+E:\BookStoreProjectFolder\BookStoreProject-CohortA\BookStoreProject\BookStoreWebAPI\Model\obj\Debug\netcoreapp2.1\Model.dll
+E:\BookStoreProjectFolder\BookStoreProject-CohortA\BookStoreProject\BookStoreWebAPI\Model\obj\Debug\netcoreapp2.1\Model.pdb
+E:\BookStoreProjectFolder\BookStoreProject-CohortA\BookStoreProject\BookStoreWebAPI\Model\obj\Debug\netcoreapp2.1\Model.genruntimeconfig.cache

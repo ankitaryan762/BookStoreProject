@@ -14,6 +14,7 @@ using Microsoft.EntityFrameworkCore;
 using Repository.Context;
 using Repository.IRepository;
 using Repository.RepositoryIMPL;
+using Microsoft.OpenApi.Models;
 
 namespace BookStoreWebAPI
 {
@@ -42,11 +43,10 @@ namespace BookStoreWebAPI
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
             services.AddTransient<IBookRepo, BookRepoIMPL>();
-
-            ILoggerFactory loggerFactory = new LoggerFactory();
-            loggerFactory.AddDebug();
-            services.AddSingleton<ILoggerFactory>(loggerFactory);
-
+            services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "BookStoreWebApi", Version = "v1" });
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -55,6 +55,11 @@ namespace BookStoreWebAPI
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
+                app.UseSwagger();
+                app.UseSwaggerUI(c =>
+                {
+                    c.SwaggerEndpoint("/swagger/v1/swagger.json", "MyApi V1");
+                });
             }
             else
             {

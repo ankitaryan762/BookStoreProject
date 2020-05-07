@@ -38,6 +38,7 @@ E:\BookStoreProjectFolder\BookStoreProject-CohortA\BookStoreProject\BookStoreWeb
 E:\BookStoreProjectFolder\BookStoreProject-CohortA\BookStoreProject\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp2.1\Model.pdb
 E:\BookStoreProjectFolder\BookStoreProject-CohortA\BookStoreProject\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp2.1\Repository.pdb
 E:\BookStoreProjectFolder\BookStoreProject-CohortA\BookStoreProject\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp2.1\BookStoreWebAPI.csprojAssemblyReference.cache
+E:\BookStoreProjectFolder\BookStoreProject-CohortA\BookStoreProject\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp2.1\BookStoreWebAPI.csproj.CoreCompileInputs.cache
 E:\BookStoreProjectFolder\BookStoreProject-CohortA\BookStoreProject\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp2.1\BookStoreWebAPI.RazorAssemblyInfo.cache
 E:\BookStoreProjectFolder\BookStoreProject-CohortA\BookStoreProject\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp2.1\BookStoreWebAPI.RazorAssemblyInfo.cs
 E:\BookStoreProjectFolder\BookStoreProject-CohortA\BookStoreProject\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp2.1\BookStoreWebAPI.AssemblyInfoInputs.cache

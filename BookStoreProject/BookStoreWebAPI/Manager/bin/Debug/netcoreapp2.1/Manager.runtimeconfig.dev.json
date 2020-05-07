@@ -1,9 +1,14 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
+<<<<<<< HEAD
       "C:\\Users\\stsum\\.dotnet\\store\\|arch|\\|tfm|",
       "C:\\Users\\stsum\\.nuget\\packages",
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+=======
+      "C:\\Users\\ankit\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ankit\\.nuget\\packages"
+>>>>>>> Ankit_Aryan_FullStack
     ]
   }
 }

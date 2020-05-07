@@ -462,6 +462,12 @@
         }
       },
       "Manager/1.0.0": {
+<<<<<<< HEAD
+=======
+        "dependencies": {
+          "Model": "1.0.0"
+        },
+>>>>>>> Ankit_Aryan_FullStack
         "runtime": {
           "Manager.dll": {}
         },

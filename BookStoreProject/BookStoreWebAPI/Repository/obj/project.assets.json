@@ -3354,6 +3354,7 @@
         "system.text.encoding.codepages.nuspec",
         "useSharedDesignerContext.txt",
         "version.txt"
+<<<<<<< HEAD
       ]
     },
     "System.Threading/4.0.11": {
@@ -3495,6 +3496,149 @@
         "system.threading.tasks.nuspec"
       ]
     },
+=======
+      ]
+    },
+    "System.Threading/4.0.11": {
+      "sha512": "N+3xqIcg3VDKyjwwCGaZ9HawG9aC6cSDI+s7ROma310GQo8vilFZa86hqKppwTHleR/G0sfOzhvgnUxWCR/DrQ==",
+      "type": "package",
+      "path": "system.threading/4.0.11",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ThirdPartyNotices.txt",
+        "dotnet_library_license.txt",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net45/_._",
+        "lib/netcore50/System.Threading.dll",
+        "lib/netstandard1.3/System.Threading.dll",
+        "lib/portable-net45+win8+wp8+wpa81/_._",
+        "lib/win8/_._",
+        "lib/wp80/_._",
+        "lib/wpa81/_._",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/net45/_._",
+        "ref/netcore50/System.Threading.dll",
+        "ref/netcore50/System.Threading.xml",
+        "ref/netcore50/de/System.Threading.xml",
+        "ref/netcore50/es/System.Threading.xml",
+        "ref/netcore50/fr/System.Threading.xml",
+        "ref/netcore50/it/System.Threading.xml",
+        "ref/netcore50/ja/System.Threading.xml",
+        "ref/netcore50/ko/System.Threading.xml",
+        "ref/netcore50/ru/System.Threading.xml",
+        "ref/netcore50/zh-hans/System.Threading.xml",
+        "ref/netcore50/zh-hant/System.Threading.xml",
+        "ref/netstandard1.0/System.Threading.dll",
+        "ref/netstandard1.0/System.Threading.xml",
+        "ref/netstandard1.0/de/System.Threading.xml",
+        "ref/netstandard1.0/es/System.Threading.xml",
+        "ref/netstandard1.0/fr/System.Threading.xml",
+        "ref/netstandard1.0/it/System.Threading.xml",
+        "ref/netstandard1.0/ja/System.Threading.xml",
+        "ref/netstandard1.0/ko/System.Threading.xml",
+        "ref/netstandard1.0/ru/System.Threading.xml",
+        "ref/netstandard1.0/zh-hans/System.Threading.xml",
+        "ref/netstandard1.0/zh-hant/System.Threading.xml",
+        "ref/netstandard1.3/System.Threading.dll",
+        "ref/netstandard1.3/System.Threading.xml",
+        "ref/netstandard1.3/de/System.Threading.xml",
+        "ref/netstandard1.3/es/System.Threading.xml",
+        "ref/netstandard1.3/fr/System.Threading.xml",
+        "ref/netstandard1.3/it/System.Threading.xml",
+        "ref/netstandard1.3/ja/System.Threading.xml",
+        "ref/netstandard1.3/ko/System.Threading.xml",
+        "ref/netstandard1.3/ru/System.Threading.xml",
+        "ref/netstandard1.3/zh-hans/System.Threading.xml",
+        "ref/netstandard1.3/zh-hant/System.Threading.xml",
+        "ref/portable-net45+win8+wp8+wpa81/_._",
+        "ref/win8/_._",
+        "ref/wp80/_._",
+        "ref/wpa81/_._",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "runtimes/aot/lib/netcore50/System.Threading.dll",
+        "system.threading.4.0.11.nupkg.sha512",
+        "system.threading.nuspec"
+      ]
+    },
+    "System.Threading.Tasks/4.0.11": {
+      "sha512": "k1S4Gc6IGwtHGT8188RSeGaX86Qw/wnrgNLshJvsdNUOPP9etMmo8S07c+UlOAx4K/xLuN9ivA1bD0LVurtIxQ==",
+      "type": "package",
+      "path": "system.threading.tasks/4.0.11",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ThirdPartyNotices.txt",
+        "dotnet_library_license.txt",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net45/_._",
+        "lib/portable-net45+win8+wp8+wpa81/_._",
+        "lib/win8/_._",
+        "lib/wp80/_._",
+        "lib/wpa81/_._",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/net45/_._",
+        "ref/netcore50/System.Threading.Tasks.dll",
+        "ref/netcore50/System.Threading.Tasks.xml",
+        "ref/netcore50/de/System.Threading.Tasks.xml",
+        "ref/netcore50/es/System.Threading.Tasks.xml",
+        "ref/netcore50/fr/System.Threading.Tasks.xml",
+        "ref/netcore50/it/System.Threading.Tasks.xml",
+        "ref/netcore50/ja/System.Threading.Tasks.xml",
+        "ref/netcore50/ko/System.Threading.Tasks.xml",
+        "ref/netcore50/ru/System.Threading.Tasks.xml",
+        "ref/netcore50/zh-hans/System.Threading.Tasks.xml",
+        "ref/netcore50/zh-hant/System.Threading.Tasks.xml",
+        "ref/netstandard1.0/System.Threading.Tasks.dll",
+        "ref/netstandard1.0/System.Threading.Tasks.xml",
+        "ref/netstandard1.0/de/System.Threading.Tasks.xml",
+        "ref/netstandard1.0/es/System.Threading.Tasks.xml",
+        "ref/netstandard1.0/fr/System.Threading.Tasks.xml",
+        "ref/netstandard1.0/it/System.Threading.Tasks.xml",
+        "ref/netstandard1.0/ja/System.Threading.Tasks.xml",
+        "ref/netstandard1.0/ko/System.Threading.Tasks.xml",
+        "ref/netstandard1.0/ru/System.Threading.Tasks.xml",
+        "ref/netstandard1.0/zh-hans/System.Threading.Tasks.xml",
+        "ref/netstandard1.0/zh-hant/System.Threading.Tasks.xml",
+        "ref/netstandard1.3/System.Threading.Tasks.dll",
+        "ref/netstandard1.3/System.Threading.Tasks.xml",
+        "ref/netstandard1.3/de/System.Threading.Tasks.xml",
+        "ref/netstandard1.3/es/System.Threading.Tasks.xml",
+        "ref/netstandard1.3/fr/System.Threading.Tasks.xml",
+        "ref/netstandard1.3/it/System.Threading.Tasks.xml",
+        "ref/netstandard1.3/ja/System.Threading.Tasks.xml",
+        "ref/netstandard1.3/ko/System.Threading.Tasks.xml",
+        "ref/netstandard1.3/ru/System.Threading.Tasks.xml",
+        "ref/netstandard1.3/zh-hans/System.Threading.Tasks.xml",
+        "ref/netstandard1.3/zh-hant/System.Threading.Tasks.xml",
+        "ref/portable-net45+win8+wp8+wpa81/_._",
+        "ref/win8/_._",
+        "ref/wp80/_._",
+        "ref/wpa81/_._",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "system.threading.tasks.4.0.11.nupkg.sha512",
+        "system.threading.tasks.nuspec"
+      ]
+    },
+>>>>>>> Ankit_Aryan_FullStack
     "Model/1.0.0": {
       "type": "project",
       "path": "../Model/Model.csproj",
@@ -3509,37 +3653,38 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\stsum\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\ankit\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stsum\\OneDrive\\Documents\\VSProjects\\BookStoreFolder\\BookStoreProject-CohortA\\BookStoreProject\\BookStoreWebAPI\\Repository\\Repository.csproj",
+      "projectUniqueName": "C:\\Users\\ankit\\Desktop\\New folder (2)\\BookStoreProject\\BookStoreWebAPI\\Repository\\Repository.csproj",
       "projectName": "Repository",
-      "projectPath": "C:\\Users\\stsum\\OneDrive\\Documents\\VSProjects\\BookStoreFolder\\BookStoreProject-CohortA\\BookStoreProject\\BookStoreWebAPI\\Repository\\Repository.csproj",
-      "packagesPath": "C:\\Users\\stsum\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stsum\\OneDrive\\Documents\\VSProjects\\BookStoreFolder\\BookStoreProject-CohortA\\BookStoreProject\\BookStoreWebAPI\\Repository\\obj\\",
+      "projectPath": "C:\\Users\\ankit\\Desktop\\New folder (2)\\BookStoreProject\\BookStoreWebAPI\\Repository\\Repository.csproj",
+      "packagesPath": "C:\\Users\\ankit\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ankit\\Desktop\\New folder (2)\\BookStoreProject\\BookStoreWebAPI\\Repository\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\stsum\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\ankit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
-        "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
+<<<<<<< HEAD
             "C:\\Users\\stsum\\OneDrive\\Documents\\VSProjects\\BookStoreFolder\\BookStoreProject-CohortA\\BookStoreProject\\BookStoreWebAPI\\Model\\Model.csproj": {
               "projectPath": "C:\\Users\\stsum\\OneDrive\\Documents\\VSProjects\\BookStoreFolder\\BookStoreProject-CohortA\\BookStoreProject\\BookStoreWebAPI\\Model\\Model.csproj"
+=======
+            "C:\\Users\\ankit\\Desktop\\New folder (2)\\BookStoreProject\\BookStoreWebAPI\\Model\\Model.csproj": {
+              "projectPath": "C:\\Users\\ankit\\Desktop\\New folder (2)\\BookStoreProject\\BookStoreWebAPI\\Model\\Model.csproj"
+>>>>>>> Ankit_Aryan_FullStack
             }
           }
         }

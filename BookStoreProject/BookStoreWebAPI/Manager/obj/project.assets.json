@@ -207,6 +207,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Model.dll": {}
+        }
       }
     }
   },
@@ -681,43 +691,49 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "Model/1.0.0": {
+      "type": "project",
+      "path": "../Model/Model.csproj",
+      "msbuildProject": "../Model/Model.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
-      "Microsoft.NETCore.App >= 2.1.0"
+      "Microsoft.NETCore.App >= 2.1.0",
+      "Model >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\stsum\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\ankit\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stsum\\OneDrive\\Documents\\VSProjects\\BookStoreFolder\\BookStoreProject-CohortA\\BookStoreProject\\BookStoreWebAPI\\Manager\\Manager.csproj",
+      "projectUniqueName": "C:\\Users\\ankit\\Desktop\\New folder (2)\\BookStoreProject\\BookStoreWebAPI\\Manager\\Manager.csproj",
       "projectName": "Manager",
-      "projectPath": "C:\\Users\\stsum\\OneDrive\\Documents\\VSProjects\\BookStoreFolder\\BookStoreProject-CohortA\\BookStoreProject\\BookStoreWebAPI\\Manager\\Manager.csproj",
-      "packagesPath": "C:\\Users\\stsum\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stsum\\OneDrive\\Documents\\VSProjects\\BookStoreFolder\\BookStoreProject-CohortA\\BookStoreProject\\BookStoreWebAPI\\Manager\\obj\\",
+      "projectPath": "C:\\Users\\ankit\\Desktop\\New folder (2)\\BookStoreProject\\BookStoreWebAPI\\Manager\\Manager.csproj",
+      "packagesPath": "C:\\Users\\ankit\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ankit\\Desktop\\New folder (2)\\BookStoreProject\\BookStoreWebAPI\\Manager\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\stsum\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\ankit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
-        "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\ankit\\Desktop\\New folder (2)\\BookStoreProject\\BookStoreWebAPI\\Model\\Model.csproj": {
+              "projectPath": "C:\\Users\\ankit\\Desktop\\New folder (2)\\BookStoreProject\\BookStoreWebAPI\\Model\\Model.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -689,30 +689,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\stsum\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\ankit\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stsum\\OneDrive\\Documents\\VSProjects\\BookStoreFolder\\BookStoreProject-CohortA\\BookStoreProject\\BookStoreWebAPI\\Model\\Model.csproj",
+      "projectUniqueName": "C:\\Users\\ankit\\Desktop\\New folder (2)\\BookStoreProject\\BookStoreWebAPI\\Model\\Model.csproj",
       "projectName": "Model",
-      "projectPath": "C:\\Users\\stsum\\OneDrive\\Documents\\VSProjects\\BookStoreFolder\\BookStoreProject-CohortA\\BookStoreProject\\BookStoreWebAPI\\Model\\Model.csproj",
-      "packagesPath": "C:\\Users\\stsum\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stsum\\OneDrive\\Documents\\VSProjects\\BookStoreFolder\\BookStoreProject-CohortA\\BookStoreProject\\BookStoreWebAPI\\Model\\obj\\",
+      "projectPath": "C:\\Users\\ankit\\Desktop\\New folder (2)\\BookStoreProject\\BookStoreWebAPI\\Model\\Model.csproj",
+      "packagesPath": "C:\\Users\\ankit\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ankit\\Desktop\\New folder (2)\\BookStoreProject\\BookStoreWebAPI\\Model\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\stsum\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\ankit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
-        "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

@@ -36,7 +36,7 @@ class Header extends Component {
                                     }}
                                     id="outlined-basic"
                                     placeholder='search'
-                                    variant="outlined" />
+                                  />
                             </div>
                         </div>
                         <div className='cart-wishlist-div'>

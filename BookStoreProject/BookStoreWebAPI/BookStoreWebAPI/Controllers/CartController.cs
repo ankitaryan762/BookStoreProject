@@ -9,9 +9,7 @@ namespace BookStoreWebAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class BookStoreController : ControllerBase
-    { 
-
-        
+    public class CartController : ControllerBase
+    {
     }
 }
